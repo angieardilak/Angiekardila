@@ -20,6 +20,10 @@ Hello! I'm a passionate Junior Web Developer with a talent for building dynamic 
 
 ## Projects
 
+ <span style="color: #FF69B4;">Python</span>
+  - <span style="color: #FF69B4;">Java (Spring Boot)</span>
+  - <span style="color: #FF69B4;">JavaScript</span>
+
 <span style="background-color: #FFC0CB">passionate</span>
 - **Project 1**: [Project Name](link)  
   A brief description of the project, the technologies used, and the key takeaways or skills acquired.
