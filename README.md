@@ -11,10 +11,10 @@ Hello! I'm a passionate Junior Web Developer with a talent for building dynamic 
   - Java (Spring Boot)
   - JavaScript
 
-- ⚡**Web Technologies**:
+  -**Web Technologies**:
   - HTML & CSS
 
-- ⚡**Database**:
+- **Database**:
   - MySQL
 
 ## Projects
