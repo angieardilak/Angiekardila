@@ -28,6 +28,12 @@ Hello! I'm a passionate Junior Web Developer with a talent for building dynamic 
 
 Feel free to explore my repositories and get in touch!
 
+![Heart](https://img.shields.io/badge/-Heart-E91E63?style=flat-square&logo=heart&logoColor=white)
+![Flower](https://img.shields.io/badge/-Flower-FF69B4?style=flat-square&logo=flower&logoColor=white)
+![Butterfly](https://img.shields.io/badge/-Butterfly-FFB6C1?style=flat-square&logo=butterfly&logoColor=white)
+![Unicorn](https://img.shields.io/badge/-Unicorn-FFC0CB?style=flat-square&logo=unicorn&logoColor=white)
+![Star](https://img.shields.io/badge/-Star-FF1493?style=flat-square&logo=star&logoColor=white)
+
 <!--
 **AngiekArdila/Angiekardila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
