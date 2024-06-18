@@ -7,7 +7,7 @@ Hello! I'm a passionate Junior Web Developer with a talent for building dynamic 
 
 ## ⭐ Skills 
 
-- **Languages**: 
+- <span style="background-color: #FFC0CB">**Languages**:</span>
   - Python
   - Java (Spring Boot)
   - JavaScript
@@ -19,6 +19,7 @@ Hello! I'm a passionate Junior Web Developer with a talent for building dynamic 
   - MySQL
 
 ## Projects
+
 <span style="background-color: #FFC0CB">passionate</span>
 - **Project 1**: [Project Name](link)  
   A brief description of the project, the technologies used, and the key takeaways or skills acquired.
