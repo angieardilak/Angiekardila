@@ -17,15 +17,6 @@ Hello! I'm a passionate Junior Web Developer with a talent for building dynamic 
 - **Database**:
   - MySQL
 
-## Projects
-
-<span style="background-color: #FFC0CB">passionate</span>
-- **Project 1**: [Project Name](link)  
-  A brief description of the project, the technologies used, and the key takeaways or skills acquired.
-
-- **Project 2**: [Project Name](link)  
-  A brief description of the project, the technologies used, and the key takeaways or skills acquired.
-
 Feel free to explore my repositories and get in touch!
 
 ⭐❤️💎⭐❤️💎
