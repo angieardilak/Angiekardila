@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 **AngiekArdila/Angiekardila**
-# Junior Web Developer
+# Full Stack Web Developer
 
-Hello! I'm a passionate Junior Web Developer with a talent for building dynamic and responsive web applications. I enjoy creating efficient and user-friendly digital solutions.
+Hello! I'm a passionate Web Developer with a talent for building dynamic and responsive web applications. I enjoy creating efficient and user-friendly digital solutions.
 
 ## ⭐ Skills 
 
