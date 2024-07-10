@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Angie Ardila parra</h1>
-<h3 align="center">Hello! I'm a passionate Web Developer with a talent for building dynamic and responsive web applications. I enjoy creating efficient and user-friendly digital solutions.</h3>
+<h3 align="center">Hello! I am Angie Ardila. Welcome to my GitHub Here you will find some of my creations from e-commerce websites, personal projects, and management systems. 
+
+As a full-stack developer, I'm proficient in Python, Java, Spring Boot, HTML, CSS, JavaScript, Bootstrap, and MySQL. 
+Please feel free to get in touch with me.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angieardilak&label=Profile%20views&color=0e75b6&style=flat" alt="angieardilak" /> </p>
 
