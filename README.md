@@ -14,7 +14,7 @@ Please feel free to get in touch with me.</h3>
 
 - 📫 How to reach me **ardila201630@gmail.com**
 - **https://www.linkedin.com/in/angie-ardila-24b5a9306/**
-- 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
